@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=BIZ+UDPMincho&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+.tvyomeventintropage{
+    margin-top: 15vh;
+    padding: 5vh 0vh;
+    background-color: #f4f4f4;
+}
+.tvyomeventintropage>div{
+    display: flex;
+    width: 90%;
+    margin: auto;
+}
+.tvyomeventintropaged1>ul>li{
+    list-style: none;
+    line-height: 32px;
+    font-family: 'Roboto Slab', serif;
+    font-size: 17px;
+    color: rgb(73, 73, 73);
+}
+.tvyomeventintropaged1{
+    text-align: left;
+    width: 60%;
+    margin: auto;
+    /* border: 1px solid black; */
+    padding-top: 0;
+}
+.tvyomeventintropaged1>h2{
+    margin-top: 2px;
+    font-family: 'BIZ UDPMincho', serif;
+    text-decoration: underline;
+}
+.tvyomeventintropaged1>p{
+    font-family: 'Roboto Slab', serif;
+    font-size: 16px;
+    line-height: 30px;
+    color: rgb(73, 73, 73);
+    margin-left: 5%;
+    width: 80%;
+}
+.tvyomeventintropaged2{
+    justify-content: center;
+    /* border: 1px solid red; */
+    padding: 1px;
+    width: 40%;
+}
+.tvyomeventintropaged2>img{
+    margin: auto;
+    width: 85%;
+    height: auto;
+    border-radius: 10px;
+}
